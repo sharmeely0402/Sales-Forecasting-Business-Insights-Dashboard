@@ -2,116 +2,87 @@
 End-to-end BI solution featuring data preprocessing, dashboard building, KPI analysis, and a 20-day sales forecast model to support data-driven business decisions.
 
 <img width="837" height="485" alt="big" src="https://github.com/user-attachments/assets/40b3430b-42c7-41eb-925b-bedc4894c556" />
- About This Project
 
-This project is something I built to apply what I’ve learned about data analysis and visualization in a practical way. The main goal was to take a raw sales dataset and turn it into a clean, interactive Power BI dashboard that shows how a business is performing and where it’s heading.
+<img width="818" height="466" alt="big-2" src="https://github.com/user-attachments/assets/e8026250-b069-475d-9172-038317663f9d" />
 
-I focused especially on time series analysis to study how sales change over time and to build a 20-day sales forecast. The dashboard helps answer important business questions like:
 
-Which products and categories are selling the most?
+## About This Project
 
-Which cities and states generate the highest sales?
+This project is something I built to turn what I learned about **data analytics and Power BI** into a real, practical solution. I used a retail sales dataset and created an **interactive dashboard** that helps understand business performance and predict future sales using **time series forecasting**.
 
-How do sales change month by month?
+The idea behind this project was simple —
+**Convert raw sales data into useful visuals and insights that can support better business decisions.**
 
-What can we expect sales to look like in the next few weeks?
+---
 
- What I Wanted to Achieve
+## 🎯 Project Goals
 
-Understand real-world business sales data
+* Analyze overall sales performance and profitability
+* Visualize sales trends month-by-month and year-by-year
+* Identify top cities, states, and product categories
+* Track key business metrics using clean KPI cards
+* Create a short-term **20-day sales forecast** to predict upcoming performance
 
-Create a dashboard that is clear, interactive, and useful
+---
 
-Track key performance indicators like:
+## 🛠 Tools Used
 
-Total Sales – 2M
+* **Power BI** – Dashboard development
+* **Power Query** – Data cleaning & transformation
+* **DAX** – KPI calculations & measures
+* **Excel / CSV** – Dataset source
+* **Time Series Forecasting** – Sales trend prediction
 
-Total Profit – 175K
+---
 
-Quantity Sold – 22K
+## 📈 Dashboard Features
 
-Practice time series forecasting for short-term sales prediction
+* ✅ KPI metrics showing **Total Sales (2M), Total Profit (175K), and Quantity (22K)**
+* ✅ Monthly sales & profit trend analysis (year-wise comparison)
+* ✅ Category and sub-category sales breakdown
+* ✅ Segment and payment-mode distribution
+* ✅ **State-wise sales map visualization**
+* ✅ City-level sales ranking
+* ✅ **20-day sales forecasting chart**
+* ✅ Interactive filters for region, category, and time period
 
-Improve my Power BI, DAX, and Power Query skills
+---
 
- Tools I Used
+## 🔄 How I Built It
 
-Power BI for building the dashboard
+1. Loaded raw sales data into Power BI
+2. Cleaned and prepared datasets using **Power Query**
+3. Created data models and relationships
+4. Built **DAX measures** for KPIs and totals
+5. Designed charts for easy understanding
+6. Applied time series forecasting to predict sales trends
 
-Power Query to clean and prepare the data
+---
 
-DAX to create measures and KPIs
+## 💡 What I Learned
 
-Excel/CSV as the data source
+* Real-world data cleaning and transformation
+* Writing basic and advanced **DAX** formulas
+* Designing dashboards that communicate clearly
+* Applying **time series forecasting concepts**
+* Converting business data into meaningful insights
 
-Power BI built-in forecasting model for time series predictions
+---
 
- What’s Inside the Dashboard
+## 🌟 Key Insights
 
-The dashboard includes:
+* Identified best-selling product categories and top-revenue cities
+* Observed clear seasonal and monthly sales patterns
+* Visualized which regions perform strongest in sales
+* Built a practical forecast to help with future business planning
 
- KPI cards showing sales, profit, and quantity at a glance
+---
 
- Monthly line charts comparing sales and profits over time
+## 🚀 Future Improvements
 
- Category and sub-category breakdowns using bar charts
+* Add machine-learning-based forecasting
+* Create deeper drill-down dashboards
+* Improve visual styling and navigation
+* Enable real-time data updating
 
- Segment and payment-mode analysis using donut charts
-
- A map showing state-wise sales distribution
-
- City-level performance rankings
-
- A 20-day sales forecast based on past trends
-
- Interactive filters (region, category, date range etc.) to explore the data easily
-
- How I Built It
-
-Imported the dataset into Power BI
-
-Cleaned and transformed messy columns using Power Query
-
-Created data relationships and models
-
-Wrote DAX formulas to calculate total sales, profits, and quantity
-
-Designed visuals that tell a clear business story
-
-Added forecasting to predict upcoming sales trends
-
- What I Learned
-
-This project helped me gain real hands-on experience with:
-
-Building dashboards from scratch
-
-Cleaning and transforming real business data
-
-Writing DAX measures
-
-Designing visuals that actually make sense to business users
-
-Understanding how sales forecasting works using time series data
-
-Turning raw data into useful business insights
-
- Key Insights From the Project
-
-Identified top-performing categories and cities
-
-Noticed seasonal and monthly sales patterns
-
-Highlighted which regions contribute the most revenue
-
-Built a forecast to support inventory and sales planning
-
- What I Want to Improve in the Future
-
-Add machine learning forecasting models
-
-Create more detailed drill-through analysis pages
-
-Improve dashboard UI/UX
-
-Connect live real-time data sources
+"**
